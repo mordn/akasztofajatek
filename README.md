@@ -1,0 +1,2 @@
+# akasztofajatek
+Socketprogramozas
